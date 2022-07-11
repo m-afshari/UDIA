@@ -21,10 +21,9 @@ Many images include details that we'd want to review but we don't have enough i
 * Numpy
 * tqdm
 
-### Installing
+### Dataset
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* To download the dataset use this [link](https://camelyon16.grand-challenge.org/Data/). 
 
 ### Executing program
 
