@@ -40,12 +40,6 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
-
-ex. Mehdi Afshari
-
-** So if you'd want to contribute, please send me a note! **
-
 ## Version History
 
 * 0.1
@@ -61,3 +55,6 @@ Inspiration, code snippets, etc.
 
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [SPSR](https://github.com/Maclory/SPSR)
+
+
+** So if you'd want to contribute, please send me a note! **
