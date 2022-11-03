@@ -34,9 +34,10 @@ Gradient calculations are done based on the [SPSR](https://github.com/Maclory/SP
 class Get_gradient_nopadding(nn.Module):
 ```
 
-## Help
+## Assessment
 
-Any advise for common problems or issues.
+For assessments the [PIQA](https://github.com/francois-rozet/piqa) library (PyTorch Image Quality Assessment) is used and the operations are suggested to be done on the same pytorch results of the network calculations for faster inference.
+
 ```
 command to run if program contains helper info
 ```
