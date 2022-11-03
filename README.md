@@ -29,8 +29,9 @@ Many images include details that we'd want to review but we don't have enough i
 
 * How to run the program
 * Step-by-step bullets
+Gradient calculations are done based on the [SPSR](https://github.com/Maclory/SPSR/blob/881e78111c418d5e0a0150b213e0f8c3525e8089/code/models/modules/architecture.py) repo.
 ```
-code blocks for commands
+class Get_gradient_nopadding(nn.Module):
 ```
 
 ## Help
